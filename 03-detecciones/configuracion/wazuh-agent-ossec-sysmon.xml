@@ -1,0 +1,11 @@
+<!--
+  Bloque agregado a C:\Program Files (x86)\ossec-agent\ossec.conf (agente Windows)
+  antes de </ossec_config>, para que Wazuh recolecte el canal de Sysmon.
+  Síntoma sin este bloque: Sysmon genera eventos localmente pero Threat Hunting no los muestra.
+  Antes de editar:  Copy-Item ossec.conf ossec.conf.bak
+  Después:          Restart-Service WazuhSvc
+-->
+<localfile>
+  <location>Microsoft-Windows-Sysmon/Operational</location>
+  <log_format>eventchannel</log_format>
+</localfile>

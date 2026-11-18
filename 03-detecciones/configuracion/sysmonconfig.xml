@@ -1,0 +1,20 @@
+<!--
+  Configuración Sysmon usada en LAB-CLIENT01 (BLUELAB).
+  Base mínima: registra todo ProcessCreate, NetworkConnect y ProcessTerminate.
+  Única exclusión: DNS (puerto 53) hacia el DC, ruido validado en el laboratorio.
+  Aplicar:    sysmon -c C:\Sysmon\sysmonconfig.xml
+  Verificar:  sysmon -c
+  Ver guía:   02-laboratorio/04-sysmon-procesos-red-correlacion.md
+-->
+<Sysmon schemaversion="4.90">
+  <HashAlgorithms>sha256</HashAlgorithms>
+  <EventFiltering>
+    <ProcessCreate onmatch="exclude">
+    </ProcessCreate>
+    <NetworkConnect onmatch="exclude">
+      <DestinationPort name="Ruido DNS hacia DC" condition="is">53</DestinationPort>
+    </NetworkConnect>
+    <ProcessTerminate onmatch="exclude">
+    </ProcessTerminate>
+  </EventFiltering>
+</Sysmon>
