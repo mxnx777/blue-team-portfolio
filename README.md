@@ -1,10 +1,13 @@
-# Blue Team / SOC N1 — Portafolio
+# Alejandro Rojas Jamett — Blue Team / SOC N1
+
+**Ingeniero informático** · TI e infraestructura desde 2008 · Región Metropolitana, Chile  
+[LinkedIn](https://www.linkedin.com/in/alejandro-rojas-44a1aa33/)
 
 Profesional de **TI e infraestructura** (Windows Server, Active Directory, Linux, redes) en transición a **analista SOC / Blue Team**. Construí un laboratorio de detección propio, en el que ataco desde Kali y valido qué registra Windows, qué captura Sysmon y qué alerta Wazuh. Todo está documentado con evidencia.
 
 **Regla de todo el repositorio:** separar lo **confirmado con evidencia** de lo hipotético o pendiente. No se publican datos productivos, credenciales ni IPs públicas.
 
-> **English summary:** IT infrastructure professional transitioning to SOC Analyst (L1). Home detection lab (Active Directory + Sysmon + Wazuh SIEM + Kali). Documented investigations with evidence, MITRE ATT&CK mapping and detection logic. Content in Spanish.
+> **English summary:** Computer engineer with IT infrastructure experience since 2008, transitioning to SOC Analyst (L1). Home detection lab (Active Directory + Sysmon + Wazuh SIEM + Kali). Documented investigations with evidence, MITRE ATT&CK mapping and detection logic. Content in Spanish.
 
 ---
 
