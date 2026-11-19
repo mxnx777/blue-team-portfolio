@@ -5,7 +5,7 @@ Material de estudio. **No equivale a certificaciones**: cada guía separa lo eje
 | Carpeta | Contenido |
 |---|---|
 | [tryhackme/](tryhackme/) | Guías por room: comandos, conceptos, errores y preguntas de repaso |
-| [fundamentos/](fundamentos/) | MITRE ATT&CK para SOC N1, HTTP, logs web y phishing |
+| [fundamentos/](fundamentos/) | MITRE ATT&CK para SOC N1, HTTP, logs web, phishing y redes: ICMP, TTL y ARP |
 | [btlo/](btlo/) | Blue Team Labs Online |
 | [linux-autoevaluacion/](linux-autoevaluacion/) | Apuntes y autoevaluación de Linux (flags de TryHackMe omitidas) |
 | [roadmap/](roadmap/) | Plan de empleabilidad Blue Team / SOC |
