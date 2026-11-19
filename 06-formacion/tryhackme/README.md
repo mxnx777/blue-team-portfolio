@@ -11,6 +11,7 @@ Este directorio reúne las **guías detalladas ya subidas al repositorio**. Se s
 | 3 | [Linux Shell Scripting: script de búsqueda en logs](linux-shell-scripting-flag-hunt-laboratorio.md) | Script `flag_hunt.sh`; `for`, `grep`, `basename`; depuración de espacios, permisos; evidencia del `authentication.log`; preguntas |
 | 4 | [Networking Concepts: OSI y TCP/IP](networking-concepts-osi-tcpip-guia-soc.md) | Siete capas OSI, cuatro TCP/IP, MAC/IP/puertos, SMB, DNS, SQL Server y análisis SOC |
 | 5 | [Networking Concepts: IPv4, subredes y enrutamiento](networking-concepts-ipv4-subredes-enrutamiento.md) | Cuatro octetos, máscara `/24`, rangos RFC1918, NAT, router, comandos Windows/Linux, preguntas y respuestas |
+| 6 | [Networking Core Protocols: DNS, WHOIS, HTTP, FTP, SMTP, POP3 e IMAP](networking-core-protocols-guia-soc.md) | Protocolos hablados a mano con `telnet`; captura DNS propia con `tshark` (beacon, CNAME, SOA); spoofing SMTP y cabeceras `Received`; errores propios; preguntas |
 
 ## Cómo estudiar sin limitarse a copiar
 
