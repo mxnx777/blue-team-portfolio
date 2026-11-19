@@ -25,3 +25,4 @@ Registro cronológico **append-only**: las entradas nuevas se agregan al final y
 - 2026-11-04 — Autoevaluación de Linux → [06-formacion/linux-autoevaluacion](06-formacion/linux-autoevaluacion/)
 - 2026-11-16 — Índice de guías TryHackMe → [06-formacion/tryhackme](06-formacion/tryhackme/)
 - 2026-11-18 — Creación del portafolio público: material migrado y ordenado, experiencia laboral anonimizada, 3 casos SOC nuevos a partir del laboratorio, catálogo de detecciones
+- 2026-11-19 — Repaso práctico de ICMP, TTL y ARP con tcpdump: el firewall de Windows bloquea el ping pero ARP delata al host; ARP repetido revela agente Wazuh sin manager → [fundamentos/redes](06-formacion/fundamentos/redes-icmp-ttl-arp-lab.md)
