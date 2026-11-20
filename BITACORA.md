@@ -27,3 +27,4 @@ Registro cronológico **append-only**: las entradas nuevas se agregan al final y
 - 2026-11-18 — Creación del portafolio público: material migrado y ordenado, experiencia laboral anonimizada, 3 casos SOC nuevos a partir del laboratorio, catálogo de detecciones
 - 2026-11-19 — Repaso práctico de ICMP, TTL y ARP con tcpdump: el firewall de Windows bloquea el ping pero ARP delata al host; ARP repetido revela agente Wazuh sin manager → [fundamentos/redes](06-formacion/fundamentos/redes-icmp-ttl-arp-lab.md)
 - 2026-11-19 — TryHackMe Networking Core Protocols: DNS, WHOIS, HTTP, FTP, SMTP, POP3 e IMAP hablados a mano; captura DNS propia en la AttackBox → [guía](06-formacion/tryhackme/networking-core-protocols-guia-soc.md)
+- 2026-11-20 — TryHackMe Networking Secure Protocols (cierre de la serie de redes, 4/4): descifrado TLS con key log en Wireshark → [guía](06-formacion/tryhackme/networking-secure-protocols-guia-soc.md)

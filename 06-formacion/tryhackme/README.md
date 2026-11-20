@@ -12,6 +12,7 @@ Este directorio reúne las **guías detalladas ya subidas al repositorio**. Se s
 | 4 | [Networking Concepts: OSI y TCP/IP](networking-concepts-osi-tcpip-guia-soc.md) | Siete capas OSI, cuatro TCP/IP, MAC/IP/puertos, SMB, DNS, SQL Server y análisis SOC |
 | 5 | [Networking Concepts: IPv4, subredes y enrutamiento](networking-concepts-ipv4-subredes-enrutamiento.md) | Cuatro octetos, máscara `/24`, rangos RFC1918, NAT, router, comandos Windows/Linux, preguntas y respuestas |
 | 6 | [Networking Core Protocols: DNS, WHOIS, HTTP, FTP, SMTP, POP3 e IMAP](networking-core-protocols-guia-soc.md) | Protocolos hablados a mano con `telnet`; captura DNS propia con `tshark` (beacon, CNAME, SOA); spoofing SMTP y cabeceras `Received`; errores propios; preguntas |
+| 7 | [Networking Secure Protocols: TLS, HTTPS, SSH, SFTP/FTPS y VPN](networking-secure-protocols-guia-soc.md) | Certificados y CA; HTTP vs HTTPS en captura (SNI visible); descifrado TLS con key log y tramas HTTP2; SSH, SFTP/FTPS, tabla de puertos, VPN; errores del cuestionario; práctica propuesta en BLUELAB |
 
 ## Cómo estudiar sin limitarse a copiar
 
