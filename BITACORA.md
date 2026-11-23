@@ -28,3 +28,4 @@ Registro cronológico **append-only**: las entradas nuevas se agregan al final y
 - 2026-11-19 — Repaso práctico de ICMP, TTL y ARP con tcpdump: el firewall de Windows bloquea el ping pero ARP delata al host; ARP repetido revela agente Wazuh sin manager → [fundamentos/redes](06-formacion/fundamentos/redes-icmp-ttl-arp-lab.md)
 - 2026-11-19 — TryHackMe Networking Core Protocols: DNS, WHOIS, HTTP, FTP, SMTP, POP3 e IMAP hablados a mano; captura DNS propia en la AttackBox → [guía](06-formacion/tryhackme/networking-core-protocols-guia-soc.md)
 - 2026-11-20 — TryHackMe Networking Secure Protocols (cierre de la serie de redes, 4/4): descifrado TLS con key log en Wireshark → [guía](06-formacion/tryhackme/networking-secure-protocols-guia-soc.md)
+- 2026-11-23 — TryHackMe Wireshark: The Basics: disección por capas, extracción de archivos, Expert Information y filtros → [guía](06-formacion/tryhackme/wireshark-basics-guia-soc.md)
