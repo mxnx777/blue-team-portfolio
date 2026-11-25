@@ -16,6 +16,8 @@ Este directorio reúne las **guías detalladas ya subidas al repositorio**. Se s
 | 8 | [Wireshark: The Basics](wireshark-basics-guia-soc.md) | Interfaz y paneles; propiedades y hash de la captura (cadena de custodia); disección por capas; búsqueda, Export Packet Bytes / Export Objects, Expert Information; filtros y Follow Stream; patrones de ataque web observados; errores corregidos |
 | 9 | [Tcpdump: The Basics](tcpdump-basics-guia-soc.md) | Opciones básicas, lectura de líneas, filtros de captura, banderas TCP (`==` vs `&`), opciones de visualización, perfil de un host desde la captura, errores propios |
 | 10 | [Nmap: The Basics](nmap-basics-guia-soc.md) | Objetivos y subredes (CIDR, máscaras, bloques), segmentación, descubrimiento, tipos de escaneo, -sV/-O/-A, timing, reportes, lecturas SOC, errores propios |
+| 11 | [Cryptography Basics](cryptography-basics-guia-soc.md) | Vocabulario, Kerckhoffs, César y fuerza bruta, simétrico vs asimétrico (truco de nombres), XOR y módulo, lectura SOC |
+| 12 | [Public Key Cryptography Basics](public-key-cryptography-guia-soc.md) | Regla ocultar/firmar, RSA, Diffie-Hellman, claves SSH (permisos, clave cifrada, authorized_keys), firmas, certificados, GPG |
 
 ## Cómo estudiar sin limitarse a copiar
 
